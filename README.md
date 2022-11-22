@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JosephBejoy
-- 👀 I’m interested in ...
 - 🌱 I’m currently completed MCA and still learning
-- 📫 How to reach me Email 
+- 📫 How to reach me -> 
 
 <!---
 JosephBejoy/JosephBejoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
